@@ -1,3 +1,3 @@
-# -Friends-CS112
+# Friends-CS112
 
 Fifth project for Data Sctructers
